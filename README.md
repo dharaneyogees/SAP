@@ -6,7 +6,9 @@ SAP, which stands for **Systems, Applications, and Products in Data Processing**
 Why do businesses need SAP?
 
 1 To centralize data, so everyone gets the same, accurate information.
+
 2 To save time, by reducing repetitive tasks and errors.
+
 3 To make better decisions, using real-time data and reports.
 
 SAP is part of a category of software called ERP (Enterprise Resource Planning), which focuses on organizing and integrating all the different activities a business does—like managing employees, tracking sales, and planning production.
